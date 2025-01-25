@@ -4,11 +4,11 @@
 
 ## 🦉 Main information
 
-Auto typing effect built with Html, CSS and Vanilla JavaScript.
+Auto typing effect built with Html, CSS and  JavaScript.
 
 The project goal:
 
-- set up functionality with Vanilla JS
+- set up functionality with  JS
 - add a speed control to go faster or slower
 
 
